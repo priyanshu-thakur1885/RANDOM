@@ -1,0 +1,22 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "A front-end project for QuickNotes Premium Access",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyanshu-thakur1885/RANDOM.git"
+  },
+  "keywords": ["frontend", "quicknotes", "premium"],
+  "author": "Your Name",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/priyanshu-thakur1885/RANDOM/issues"
+  },
+  "homepage": "https://github.com/priyanshu-thakur1885/RANDOM#readme"
+}
