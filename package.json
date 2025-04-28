@@ -11,12 +11,19 @@
     "type": "git",
     "url": "https://github.com/priyanshu-thakur1885/RANDOM.git"
   },
-  "keywords": ["frontend", "quicknotes", "premium"],
+  "keywords": [
+    "frontend",
+    "quicknotes",
+    "premium"
+  ],
   "author": "Your Name",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/priyanshu-thakur1885/RANDOM/issues"
   },
-  "homepage": "https://github.com/priyanshu-thakur1885/RANDOM#readme"
+  "homepage": "https://github.com/priyanshu-thakur1885/RANDOM#readme",
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0"
+  }
 }
